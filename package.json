@@ -1,0 +1,15 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "description": "console based pomodoro",
+  "main": "pomodoro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Rothstein",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "log-timestamp": "^0.3.0",
+    "moment": "^2.24.0"
+  }
+}
